@@ -22,8 +22,6 @@
 ## Documentation
 
 - [ 📄 **Full document** 📄 ](https://4xmen.github.io/xshop/#/)
-- [🇮🇷 Persian read me](README-fa.md)
-
 
 ## Installation [ Development mode ]
 
@@ -191,5 +189,5 @@ php artisan build
 
 
 <p align="center"> 
-    Developed With Love ! ❤️
+    Developed With Love by 4xMen ! ❤️
 </p>
